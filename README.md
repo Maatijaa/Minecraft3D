@@ -19,7 +19,7 @@ Minecraft3D is a recreated version of minecraft written in C++.
 
 ```bash
 git clone https://github.com/Maatijaa/Minecraft3D.git
-cd cd Minecraft3D
+cd Minecraft3D
 ```
 
 **2 step: Creating build directory and running make.**
